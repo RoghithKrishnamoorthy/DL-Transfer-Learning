@@ -38,9 +38,9 @@ Write your own steps
 
 ## PROGRAM
 
-### Name:
+### Name:ROGHITH K
 
-### Register Number:
+### Register Number: 212222040135
 
 ```python
 # Load Pretrained Model and Modify for Transfer Learning
